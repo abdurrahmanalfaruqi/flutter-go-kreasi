@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978399211721",
+    "project_id": "go-bimbelonline",
+    "storage_bucket": "go-bimbelonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978399211721:android:208240aecd834a6f689d18",
+        "android_client_info": {
+          "package_name": "com.gobimbel_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWByMyHNT9is-g2o3jb-HpBVsJSLPsYj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
